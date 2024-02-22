@@ -1,5 +1,5 @@
 # Dining-Chat-App
-This is a serverless, micro service-driven web application created completely using AWS cloud services. The main application of this chatbot is to provide restaurant suggestions to its users based on the preferences provided to it through conversations.
+This web application, built entirely on AWS cloud services, operates on a serverless, microservice architecture. Its primary function, executed through conversational interactions, is to offer restaurant recommendations to users based on their specified preferences.
 
 ## Services Used
 1. Amazon S3 - To host the frontend
